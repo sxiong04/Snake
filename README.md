@@ -1,7 +1,7 @@
 # Snake
 Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line
 itself being the primary obstacle. This is a basic implementation of the game created following an YouTube tutorial,
-which can be found at this link: https://www.youtube.com/playlist?list=PLzMcBGfZo4-kQNQxlrgl5FtncvEbD0urc.
+which can be found at this link: https://www.youtube.com/watch?v=8dfePlONtls
 
 ## Explanation
 The player controls a dot, square, or object on a bordered plane. As it moves forward, it leaves a trail behind,
